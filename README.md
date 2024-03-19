@@ -1,2 +1,4 @@
-# K-means_exploration
-K-means limitations and interaction
+# K-means limitations and research
+
+Research conducted aiming to uncover some of the limtiations of k-means clustering
+
